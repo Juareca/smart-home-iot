@@ -1,0 +1,20 @@
+# Node/NestJS
+auth-service/node_modules/
+auth-service/dist/
+auth-service/.env
+
+# Dispositivos / firmware (si aplica)
+devices/node_modules/
+devices/dist/
+
+# Mosquitto / Docker
+mosquitto/data/
+mosquitto/logs/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
