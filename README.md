@@ -6,7 +6,6 @@ Desarrollado por Juan Alberto Arévalo, Ingeniero de Software (2026).
 SmartSwitch IoT es un sistema de automatización que permite controlar luces desde:
 
 una aplicación Flutter
-
 un interruptor físico
 
 El sistema funciona incluso cuando el usuario apaga la luz desde el interruptor físico, gracias a una arquitectura eléctrica profesional donde el ESP32 permanece energizado de forma independiente.
@@ -14,13 +13,9 @@ El sistema funciona incluso cuando el usuario apaga la luz desde el interruptor 
 Este proyecto demuestra dominio en:
 
 Desarrollo móvil (Flutter)
-
 Backend profesional (NestJS)
-
 Comunicación en tiempo real (MQTT / WebSockets)
-
 Electrónica aplicada (ESP32 + relé + AC‑DC)
-
 Arquitectura IoT moderna
 
 🧩 Arquitectura del sistema
@@ -42,7 +37,6 @@ Hardware: ESP32, Relé 5V, AC‑DC 110/220V→5V, interruptor físico
 ✔ Estado en tiempo real
 
 🔌 Diagrama eléctrico (versión profesional)
-Código
                 ┌──────────────────────────┐
                 │   MÓDULO AC‑DC 5V        │
                 │                          │
@@ -57,5 +51,5 @@ Fase ────────────────┐
                       └──→ COM del relé
                            NO del relé → Retorno → Bombillo
 👨‍💻 Autor
-Juan Alberto Arévalo  
+Juan Alberto Arévalo Cáceres
 Ingeniero de Software — 2026
