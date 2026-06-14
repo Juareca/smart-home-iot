@@ -36,13 +36,14 @@ Hardware: ESP32, Relé 5V, AC‑DC 110/220V→5V, interruptor físico
 ✔ Control híbrido (modo Sonoff)
 ✔ Estado en tiempo real
 
-🔌 Diagrama eléctrico (versión profesional)
+🔌 Diagrama eléctrico 
                 ┌──────────────────────────┐
                 │   MÓDULO AC‑DC 5V        │
                 │                          │
 Fase ───────────┤ L                    +5V ├──→ Vin ESP32
 Neutro ─────────┤ N                    GND ├──→ GND ESP32
                 └──────────────────────────┘
+                
 
 Fase ────────────────┐
                       │
