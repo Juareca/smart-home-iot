@@ -19,10 +19,10 @@ Electrónica aplicada (ESP32 + relé + AC‑DC)
 Arquitectura IoT moderna
 
 🧩 Arquitectura del sistema
-Código
-Flutter App → NestJS API → MQTT Broker → ESP32 → Relé → Luz
-                         ↑
-                         └── WebSockets (estado en tiempo real)
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fed42f0d-2f34-4487-8972-5ac0f4ed7918" />
+
+
 🛠 Tecnologías utilizadas
 Frontend: Flutter, Material Design, HTTP, WebSockets
 Backend: NestJS, JWT, REST API, MQTT
@@ -37,20 +37,10 @@ Hardware: ESP32, Relé 5V, AC‑DC 110/220V→5V, interruptor físico
 ✔ Estado en tiempo real
 
 🔌 Diagrama eléctrico 
-                ┌──────────────────────────┐
-                │   MÓDULO AC‑DC 5V        │
-                │                          │
-Fase ───────────┤ L                    +5V ├──→ Vin ESP32
-Neutro ─────────┤ N                    GND ├──→ GND ESP32
-                └──────────────────────────┘
-                
 
-Fase ────────────────┐
-                      │
-                      ├──→ Interruptor → Retorno → Bombillo
-                      │
-                      └──→ COM del relé
-                           NO del relé → Retorno → Bombillo
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/07963b42-e1ce-4294-9f2e-3def6f0f6cf5" />
+
+  
 👨‍💻 Autor
 Juan Alberto Arévalo Cáceres
 Ingeniero de Software — 2026
