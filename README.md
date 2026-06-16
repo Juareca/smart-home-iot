@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/Copilot_20260615_211523.png" width="100%" alt="SmartSwitch IoT Banner">
+  <img src="./images/banner.png" width="100%" alt="SmartSwitch IoT Banner">
 </p>
 
 <h1 align="center">🔌 SmartSwitch IoT</h1>
