@@ -108,3 +108,5 @@ flutter run
 
 ### **4. ESP32**
 Subir el firmware con Arduino IDE.
+El firmware se encuentra en la carpeta `/firmware`.  
+Subirlo al dispositivo(ESP32) usando **Arduino IDE**.
