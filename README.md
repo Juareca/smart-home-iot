@@ -59,8 +59,6 @@ Este proyecto demuestra dominio en:
   <img src="./images/Screenshot_20260615-202228.jpg" width="30%" style="margin-right:10px;">
 </p>
 
-<p align="center"><i>(Reemplaza estas imágenes con tus capturas reales)</i></p>
-
 ---
 
 ## 🛠 Tecnologías Utilizadas
