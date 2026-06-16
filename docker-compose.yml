@@ -3,8 +3,8 @@ services:
     image: postgres:15
     container_name: authdb
     environment:
-      POSTGRES_USER: juareca
-      POSTGRES_PASSWORD: 123456
+      POSTGRES_USER: ${AUTHDB_USER}
+      POSTGRES_PASSWORD: ${AUTHDB_PASSWORD}
       POSTGRES_DB: authdb
     ports:
       - "5432:5432"
@@ -16,8 +16,8 @@ services:
     image: postgres:15
     container_name: devicesdb
     environment:
-      POSTGRES_USER: juareca
-      POSTGRES_PASSWORD: 123456
+      POSTGRES_USER: ${DEVICESDB_USER}
+      POSTGRES_PASSWORD: ${DEVICESDB_PASSWORD}
       POSTGRES_DB: devicesdb
     ports:
       - "5434:5432"
