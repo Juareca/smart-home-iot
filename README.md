@@ -91,20 +91,24 @@ Este proyecto demuestra dominio en:
 
 ---
 
-## ▶ Cómo Ejecutar el Proyecto
+<h2>▶️ Cómo Ejecutar el Proyecto</h2>
 
-### **1. Backend (NestJS)**
-npm install
+<h3>1. Backend (NestJS)</h3>
+<pre><code>npm install
 npm run start:dev
+</code></pre>
 
-### **2. MQTT Broker**
-mosquitto
+<h3>2. MQTT Broker</h3>
+<pre><code>mosquitto
+</code></pre>
 
-### **3. Flutter App**
-flutter pub get
+<h3>3. Flutter App</h3>
+<pre><code>flutter pub get
 flutter run
+</code></pre>
 
-### **4. ESP32**
-Subir el firmware con Arduino IDE.
-El firmware se encuentra en la carpeta `/firmware`.  
-Subirlo al dispositivo(ESP32) usando **Arduino IDE**.
+<h3>4. ESP32</h3>
+<p>
+  Subir el firmware al dispositivo <strong>(ESP32)</strong> usando <strong>Arduino IDE</strong>.<br>
+  El firmware se encuentra en la carpeta <code>/firmware</code>.
+</p>
