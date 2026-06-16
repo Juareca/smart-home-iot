@@ -54,8 +54,8 @@ Este proyecto demuestra dominio en:
 
 <p align="center">
   <img src="./images/Screenshot_20260615-202017.jpg" width="30%" style="margin-right:10px;">
-  <img src="./images/Screenshot_20260615-202223.jpg" width="30%" style="margin-right:10px;">
   <img src="./images/Screenshot_20260615-202210.jpg" width="30%" style="margin-right:10px;">
+  <img src="./images/Screenshot_20260615-202223.jpg" width="30%" style="margin-right:10px;">
   <img src="./images/Screenshot_20260615-202228.jpg" width="30%" style="margin-right:10px;">
 </p>
 
