@@ -37,7 +37,7 @@ Este proyecto demuestra dominio en:
 ## 🧩 Arquitectura del Sistema
 
 <p align="center">
-  <img src="./images/diagrama-arquitectura.png" width="80%" alt="Diagrama de Arquitectura IoT">
+  <img src="./images/arquitectura_IoT.png" width="80%" alt="Diagrama de Arquitectura IoT">
 </p>
 
 ---
