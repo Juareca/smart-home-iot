@@ -96,6 +96,15 @@ Este proyecto demuestra dominio en:
 ## ▶ Cómo Ejecutar el Proyecto
 
 ### **1. Backend (NestJS)**
-```bash
 npm install
 npm run start:dev
+
+### **2. MQTT Broker**
+mosquitto
+
+### **3. Flutter App**
+flutter pub get
+flutter run
+
+### **4. ESP32**
+Subir el firmware con Arduino IDE.
